@@ -21,11 +21,12 @@
   <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
 </p>
 
-<!--   -->
+<!--  https://pufler.dev/git-badges/  -->
 <p align="center">
     <a href="https://github.com/LiangLliu?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/LiangLliu" target="_blank"><img alt="LiangLliu" src="https://badges.pufler.dev/visits/LiangLliu/LiangLliu?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/LiangLliu" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/LiangLliu/LiangLliu?label=hits&style=flat-square"></a>
+    <a href="https://github.com/LiangLliu" target="_blank"><img alt="Years Badge" src="https://badges.pufler.dev/years/LiangLliu"></a>  
+    <a href="https://github.com/LiangLliu?tab=repositories" target="_blank"><img alt="Repos Badge" src="https://badges.pufler.dev/repos/lianglliu"></a>
     <a href="https://github.com/LiangLliu/LiangLliu" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/LiangLliu/LiangLliu?label=profile%20updated&style=flat-square"></a>
 </p>
 
