@@ -24,13 +24,15 @@
 <!--  https://pufler.dev/git-badges/  -->
 <p align="center">
     <a href="https://github.com/LiangLliu?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/LiangLliu" target="_blank"><img alt="LiangLliu" src="https://badges.pufler.dev/visits/LiangLliu/LiangLliu?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/LiangLliu" target="_blank"><img alt="Years Badge" src="https://badges.pufler.dev/years/LiangLliu"></a>  
-    <a href="https://github.com/LiangLliu?tab=repositories" target="_blank"><img alt="Repos Badge" src="https://badges.pufler.dev/repos/lianglliu"></a>
-    <a href="https://github.com/LiangLliu/LiangLliu" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/LiangLliu/LiangLliu?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/LiangLliu" target="_blank"><img alt="LiangLliu" src="https://badges.strrl.dev/visits/LiangLliu/LiangLliu?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/LiangLliu" target="_blank"><img alt="Years Badge" src="https://badges.strrl.dev/years/LiangLliu"></a>  
+    <a href="https://github.com/LiangLliu?tab=repositories" target="_blank"><img alt="Repos Badge" src="https://badges.strrl.dev/repos/LiangLliu"></a>
+    <a href="https://github.com/LiangLliu" target="_blank"><img alt="Contributions Badge" src="https://badges.strrl.dev/contributions/all/LiangLliu"></a>
+    <a href="https://github.com/LiangLliu/LiangLliu" target="_blank"><img alt="GitHub hits" src="https://badges.strrl.dev/updated/LiangLliu/LiangLliu"></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats-4ygfr26fr-lianglliu.vercel.app/api?username=LiangLliu&count_private=true&show_icons=true) 
+
+![Anurag's GitHub stats](https://github-readme-stats-4ygfr26fr-lianglliu.vercel.app/api?username=LiangLliu&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-4ygfr26fr-lianglliu.vercel.app/api/top-langs/?username=LiangLliu&layout=compact&langs_count=10)
 
