@@ -1,10 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<!-- CodeTime -->
 <h3>Things I code with</h3>
-<p align="center">
-    <img alt = "CodeTime" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1664?logoColor=white%26project=%26recentMS=0%26showProject=false"/>
-</p>
+
 <!-- code https://github.com/Ileriayo/markdown-badges -->
 
 <p align="center">
@@ -36,13 +33,4 @@
 
 ![Top Langs](https://github-readme-stats-4ygfr26fr-lianglliu.vercel.app/api/top-langs/?username=LiangLliu&layout=compact&langs_count=10)
 
-
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-  <img alt = "CodeTime" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1664?logoColor=white%26project=%26recentMS=0%26showProject=false"/>
-  <br>
-  <img alt = "Top Language" src="https://github-readme-stats-4ygfr26fr-lianglliu.vercel.app/api/wakatime?username=LiangLliu"/>
-</p>
-</details>
 
