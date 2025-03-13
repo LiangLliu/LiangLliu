@@ -29,8 +29,7 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats-4ygfr26fr-lianglliu.vercel.app/api?username=LiangLliu&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-git-master-liangllius-projects.vercel.app/api?username=LiangLliu&count_private=true&show_icons=true&theme=holi)
 
-![Top Langs](https://github-readme-stats-4ygfr26fr-lianglliu.vercel.app/api/top-langs/?username=LiangLliu&layout=compact&langs_count=10)
-
+![Top Langs](https://github-readme-stats-git-master-liangllius-projects.vercel.app/api/top-langs/?username=LiangLliu&layout=compact&langs_count=15)
 
